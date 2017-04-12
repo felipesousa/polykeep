@@ -1,0 +1,7 @@
+{
+  "name": "polykeep",
+  "short_name": "polykeep",
+  "description": "Create and save notes to easy way.",
+  "start_url": "/",
+  "display": "standalone"
+}

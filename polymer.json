@@ -1,0 +1,16 @@
+{
+  "entrypoint": "index.html",
+  "shell": "src/polykeep-app.html",
+  "fragments": [
+  ],
+  "sources": [
+   "src/**/*",
+   "data/**/*",
+   "images/**/*",
+   "bower.json"
+  ],
+  "extraDependencies": [
+    "manifest.json",
+    "bower_components/webcomponentsjs/webcomponents-lite.js"
+  ]
+}
